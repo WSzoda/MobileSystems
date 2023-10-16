@@ -10,4 +10,7 @@
     <string name="question_tlen">Czy ludzie potrzebują tlenu do oddychania?</string>
     <string name="answer_correct">Poprawna odpowiedź</string>
     <string name="answer_wrong">Nope, błędna odpowiedź</string>
+    <string name="prompt">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź została wyświetlona</string>
 </resources>
