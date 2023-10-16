@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="button_true">Tak</string>
+    <string name="button_false">Nie</string>
+    <string name="button_next">Następne</string>
+    <string name="question_ziemia">Czy Ziemia krąży wokół Słońca?</string>
+    <string name="question_woda">Czy woda wrze przy temperaturze 100 stopni Celsjusza przy standardowym ciśnieniu?</string>
+    <string name="question_ksiezyc">Czy Księżyc ma atmosferę?</string>
+    <string name="question_planeta">Czy Planeta Ziemia jest okrągła?</string>
+    <string name="question_tlen">Czy ludzie potrzebują tlenu do oddychania?</string>
+    <string name="answer_correct">Poprawna odpowiedź</string>
+    <string name="answer_wrong">Nope, błędna odpowiedź</string>
+</resources>
